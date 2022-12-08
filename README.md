@@ -2,7 +2,6 @@
 
 * ✨ Atualmente trabalho como repositor de FLV no Mambo Supermercados. 🍉🍓🍇🥑🥕
 * 📚 Estudando HTML/CSS/JS e outras tecnologias
-* 😁 Pronomes: Ele/Dele
 * 🥰 Meu sonho sempre foi trabalhar com tecnologia, e em breve realizarei! Por isso sigo na luta constante para alcançar. ❤
 
 <div>
