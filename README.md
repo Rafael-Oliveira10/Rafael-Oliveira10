@@ -1,6 +1,5 @@
 ## Olá, seja bem vindo!
 
-* ✨ Atualmente trabalho como repositor de FLV no Mambo Supermercados. 🍉🍓🍇🥑🥕
 * 📚 Estudando HTML/CSS/JS e outras tecnologias
 * 🥰 Meu sonho sempre foi trabalhar com tecnologia, e em breve realizarei! Por isso sigo na luta constante para alcançar. ❤
 
